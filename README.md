@@ -1,5 +1,6 @@
 # Projects
 
+
 ## Digit Classification
 * #### **[MNIST Dataset](https://github.com/virtually-real1/Deep-Learning/blob/main/Digit%20Classification/MNIST.ipynb)**  
 MNIST dataset was used to train the CNN model, and predict the digit in the test images.
